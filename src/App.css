@@ -1,0 +1,15 @@
+body{
+  width: 100%;
+  height: 100vh;
+  overflow: auto;
+}
+#root {
+  width: 100%;
+  height: 100%;
+}
+#App{
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+}
